@@ -26,9 +26,3 @@ This is a full-stack application built using MongoDB, Express, React, and Node.j
 - **Express.js**: For building APIs.
 - **React**: For frontend development.
 - **Node.js**: For backend development.
-
-## Deployment
-You can deploy the backend on services like Heroku and the frontend on services like Netlify or Vercel.
-
-## License
-MIT
